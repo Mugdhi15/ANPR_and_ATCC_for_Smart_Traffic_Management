@@ -1,0 +1,6 @@
+libraries used:
+opencv-python
+matplotlib
+pytesseract
+ultralytics
+tensorflow
